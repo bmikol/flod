@@ -7,3 +7,14 @@ A simple shell script to track the time you spend on tasks, based upon a shell s
 * Add ability to quickly submit your tasks as an argument
 * Add shortcuts for tasks you repeatedly submit
 * Create a companion script to parse and report total time spent on projects
+
+## Change Log
+
+### v2022.01
+
+* Added configuration section for log file format & location
+* Added ability to auto-create desired log file path (if it doesn't already exist)
+
+### v2022.00
+
+* Initial release of basic Q&A functionality
